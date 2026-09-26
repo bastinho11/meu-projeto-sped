@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# SPED / Testes gerados localmente
+*.txt
+*.pdf
+*.xlsx
+
+# Sistema
+.DS_Store
+Thumbs.db
